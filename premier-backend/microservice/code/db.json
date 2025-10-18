@@ -1,0 +1,1010 @@
+{
+  "meta": {
+    "tile": "List of animals",
+    "date": "September 2024"
+  },
+   "premier league": [
+    {
+      "name": "Liverpool",
+      "Image": "Liverpool.png",
+      "stadium": "Anfield",
+      "manager": "Arne Slot",
+      "founded": "1892",
+      "Players": [
+        {
+          "name": "Mohamed Salah",
+          "position": "Right Winger / Forward",
+          "goals": 29,
+          "assists": 18,
+          "age": 33,
+          "quiz": "True or False: Mohamed Salah had 47 goal involvements in the 2024–25 Premier League."
+        },
+        {
+          "name": "Hugo Ekitike",
+          "position": "Forward",
+          "goals": 3,
+          "assists": 1,
+          "age": 22,
+          "quiz": "True or False: Hugo Ekitike joined Liverpool from PSG."
+        },
+        {
+          "name": "Jeremie Frimpong",
+          "position": "Right Back / Wingback",
+          "goals": 4,
+          "assists": 5,
+          "age": 22,
+          "quiz": "True or False: Frimpong has played for Bayer Leverkusen."
+        },
+        {
+          "name": "Virgil van Dijk",
+          "position": "Centre Back",
+          "goals": 3,
+          "assists": 1,
+          "age": 33,
+          "quiz": "True or False: Van Dijk captains the Netherlands national team."
+        },
+        {
+          "name": "Ryan Gravenberch",
+          "position": "Midfielder",
+          "goals": 2,
+          "assists": 2,
+          "age": 22,
+          "quiz": "True or False: Gravenberch previously played for Ajax."
+        },
+        {
+          "name": "Dominik Szoboszlai",
+          "position": "Midfielder",
+          "goals": 7,
+          "assists": 6,
+          "age": 23,
+          "quiz": "True or False: Szoboszlai was from RB Leipzig."
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "position": "Midfielder",
+          "goals": 5,
+          "assists": 4,
+          "age": 26,
+          "quiz": "True or False: Mac Allister is from Argentina."
+        },
+        {
+          "name": "Ibrahima Konaté",
+          "position": "Centre Back",
+          "goals": 2,
+          "assists": 0,
+          "age": 25,
+          "quiz": "True or False: Konaté once played for RB Leipzig."
+        },
+        {
+          "name": "Cody Gakpo",
+          "position": "Left Winger / Forward",
+          "goals": 10,
+          "assists": 7,
+          "age": 25,
+          "quiz": "True or False: Gakpo is from the Netherlands."
+        },
+        {
+          "name": "Florian Wirtz",
+          "position": "Attacking Midfielder",
+          "goals": 8,
+          "assists": 9,
+          "age": 21,
+          "quiz": "True or False: Wirtz is one of Germany’s most promising youngsters."
+        },
+        {
+          "name": "Alisson Becker",
+          "position": "Goalkeeper",
+          "goals": 0,
+          "assists": 1,
+          "age": 32,
+          "quiz": "True or False: Alisson once scored a goal for his club."
+        }
+      ]
+    },
+    {
+      "name": "Arsenal",
+      "Image": "Arsenal.png",
+      "stadium": "Emirates Stadium",
+      "manager": "Mikel Arteta",
+      "founded": "1886",
+      "Players": [
+        {
+          "name": "Bukayo Saka",
+          "position": "Winger / Forward",
+          "goals": 14,
+          "assists": 10,
+          "age": 24,
+          "quiz": "True or False: Bukayo Saka had more than 20 goal contributions in 2024–25."
+        },
+        {
+          "name": "Martin Ødegaard",
+          "position": "Attacking Midfielder",
+          "goals": 8,
+          "assists": 7,
+          "age": 25,
+          "quiz": "True or False: Ødegaard once wore the number 10 shirt for Real Madrid."
+        },
+        {
+          "name": "Gabriel Mangalhães",
+          "position": "Centre Back",
+          "goals": 2,
+          "assists": 1,
+          "age": 26,
+          "quiz": "True or False: Gabriel played in Brazil before joining Europe."
+        },
+        {
+          "name": "William Saliba",
+          "position": "Centre Back",
+          "goals": 1,
+          "assists": 2,
+          "age": 23,
+          "quiz": "True or False: Saliba was signed from Saint-Étienne."
+        },
+        {
+          "name": "Victor Gyokeres",
+          "position": "Forward",
+          "goals": 12,
+          "assists": 4,
+          "age": 23,
+          "quiz": "True or False: Gyokeres is from Sweden."
+        },
+        {
+          "name": "Declan Rice",
+          "position": "Defensive Midfielder",
+          "goals": 3,
+          "assists": 4,
+          "age": 26,
+          "quiz": "True or False: Declan Rice once captained West Ham United."
+        },
+        {
+          "name": "Gabriel Martinelli",
+          "position": "Left Winger / Forward",
+          "goals": 11,
+          "assists": 6,
+          "age": 23,
+          "quiz": "True or False: Martinelli moved to Arsenal from Brazil."
+        },
+        {
+          "name": "Martin Zubimendi",
+          "position": "Central Midfielder",
+          "goals": 2,
+          "assists": 3,
+          "age": 25,
+          "quiz": "True or False: Zubimendi played in La Liga before joining Arsenal."
+        },
+        {
+          "name": "Riccardo Calafiori",
+          "position": "Centre Back",
+          "goals": 3,
+          "assists": 1,
+          "age": 22,
+          "quiz": "True or False: Calafiori is Italian."
+        },
+        {
+          "name": "Jurrien Timber",
+          "position": "Right Back / Centre Back",
+          "goals": 1,
+          "assists": 3,
+          "age": 24,
+          "quiz": "True or False: Timber came through Ajax’s youth academy."
+        },
+        {
+          "name": "David Raya",
+          "position": "Goalkeeper",
+          "goals": 0,
+          "assists": 0,
+          "age": 31,
+          "quiz": "True or False: Raya once played for Brentford."
+        }
+      ]
+    },
+    {
+      "name": "Chelsea",
+      "Image": "Chelsea.png",
+      "stadium": "Stamford Bridge",
+      "manager": "Enzo Maresca",
+      "founded": "1905",
+      "Players": [
+        {
+          "name": "Enzo Fernandez",
+          "position": "Midfielder",
+          "goals": 5,
+          "assists": 6,
+          "age": 24,
+          "quiz": "True or False: Enzo Fernández won the World Cup with Argentina."
+        },
+        {
+          "name": "Reece James",
+          "position": "Right Back",
+          "goals": 3,
+          "assists": 4,
+          "age": 25,
+          "quiz": "True or False: Reece James captains Chelsea in some matches."
+        },
+        {
+          "name": "Marc Cucurella",
+          "position": "Left Back",
+          "goals": 1,
+          "assists": 2,
+          "age": 25,
+          "quiz": "True or False: Cucurella played for Brighton before joining Chelsea."
+        },
+        {
+          "name": "Trevoh Chalobah",
+          "position": "Centre Back",
+          "goals": 1,
+          "assists": 1,
+          "age": 24,
+          "quiz": "True or False: Chalobah is a product of Chelsea’s academy."
+        },
+        {
+          "name": "Tosin Adarabioyo",
+          "position": "Centre Back",
+          "goals": 2,
+          "assists": 0,
+          "age": 26,
+          "quiz": "True or False: Adarabioyo is eligible to play for Nigeria."
+        },
+        {
+          "name": "Estevao Williams",
+          "position": "Midfielder / Forward",
+          "goals": 4,
+          "assists": 3,
+          "age": 20,
+          "quiz": "True or False: Estevao Williams is from Brazil."
+        },
+        {
+          "name": "Moises Caicedo",
+          "position": "Defensive Midfielder",
+          "goals": 2,
+          "assists": 3,
+          "age": 23,
+          "quiz": "True or False: Caicedo is Ecuadorian."
+        },
+        {
+          "name": "Pedro Neto",
+          "position": "Winger",
+          "goals": 6,
+          "assists": 4,
+          "age": 25,
+          "quiz": "True or False: Neto played for Wolves before joining Chelsea."
+        },
+        {
+          "name": "Cole Palmer",
+          "position": "Attacking Midfielder / Forward",
+          "goals": 15,
+          "assists": 8,
+          "age": 22,
+          "quiz": "True or False: Cole Palmer started at Manchester City youth."
+        },
+        {
+          "name": "João Pedro",
+          "position": "Forward / Winger",
+          "goals": 7,
+          "assists": 5,
+          "age": 23,
+          "quiz": "True or False: João Pedro is Portuguese."
+        },
+        {
+          "name": "Robert Sánchez",
+          "position": "Goalkeeper",
+          "goals": 0,
+          "assists": 0,
+          "age": 27,
+          "quiz": "True or False: Robert Sánchez has played for Brighton & Hove Albion."
+        }
+      ]
+    },
+    {
+      "name": "Manchester City",
+      "Image": "ManchesterCity.png",
+      "stadium": "Etihad Stadium",
+      "manager": "Pep Guardiola",
+      "founded": "1880",
+      "Players": [
+        {
+          "name": "Erling Haaland",
+          "position": "Striker",
+          "goals": 22,
+          "assists": 6,
+          "age": 24,
+          "quiz": "True or False: Haaland scored over 40 goals in 2023–24 across all competitions."
+        },
+        {
+          "name": "Jérémy Doku",
+          "position": "Winger",
+          "goals": 5,
+          "assists": 7,
+          "age": 22,
+          "quiz": "True or False: Doku is Belgian."
+        },
+        {
+          "name": "Rodri",
+          "position": "Defensive Midfielder",
+          "goals": 3,
+          "assists": 4,
+          "age": 27,
+          "quiz": "True or False: Rodri won La Liga before moving to City."
+        },
+        {
+          "name": "Tijani Reijnders",
+          "position": "Midfielder",
+          "goals": 3,
+          "assists": 2,
+          "age": 22,
+          "quiz": "True or False: Tijani Reijnders is Dutch."
+        },
+        {
+          "name": "Phil Foden",
+          "position": "Attacking Midfielder / Winger",
+          "goals": 10,
+          "assists": 8,
+          "age": 23,
+          "quiz": "True or False: Foden came through Manchester City’s youth academy."
+        },
+        {
+          "name": "Gvardiol",
+          "position": "Centre Back / Left Back",
+          "goals": 2,
+          "assists": 3,
+          "age": 22,
+          "quiz": "True or False: Gvardiol is Croatian."
+        },
+        {
+          "name": "Matheus Nunes",
+          "position": "Central Midfielder",
+          "goals": 4,
+          "assists": 3,
+          "age": 26,
+          "quiz": "True or False: Nunes is Portuguese."
+        },
+        {
+          "name": "Rúben Dias",
+          "position": "Centre Back",
+          "goals": 1,
+          "assists": 2,
+          "age": 27,
+          "quiz": "True or False: Dias previously played for Benfica."
+        },
+        {
+          "name": "Donnarumma",
+          "position": "Goalkeeper",
+          "goals": 0,
+          "assists": 0,
+          "age": 26,
+          "quiz": "True or False: Donnarumma joined City from PSG."
+        },
+        {
+          "name": "Savinho",
+          "position": "Winger",
+          "goals": 2,
+          "assists": 4,
+          "age": 21,
+          "quiz": "True or False: Savinho once played in Brazil's top league."
+        },
+        {
+          "name": "Nico O’Reilly",
+          "position": "Midfielder",
+          "goals": 1,
+          "assists": 1,
+          "age": 19,
+          "quiz": "True or False: Nico O’Reilly is English."
+        }
+      ]
+    },
+    {
+      "name": "Manchester United",
+      "Image": "ManchesterUnited.png",
+      "stadium": "Old Trafford",
+      "manager": "Ruben Amorim",
+      "founded": "1878",
+      "Players": [
+        {
+          "name": "Bryan Mbeumo",
+          "position": "Winger / Forward",
+          "goals": 18,
+          "assists": 7,
+          "age": 24,
+          "quiz": "True or False: Bryan Mbeumo once played for Brentford."
+        },
+        {
+          "name": "Manuel Ugarte",
+          "position": "Defensive Midfielder",
+          "goals": 4,
+          "assists": 2,
+          "age": 24,
+          "quiz": "True or False: Ugarte is Uruguayan."
+        },
+        {
+          "name": "Bruno Fernandes",
+          "position": "Attacking Midfielder",
+          "goals": 12,
+          "assists": 8,
+          "age": 29,
+          "quiz": "True or False: Bruno Fernandes came from Sporting CP."
+        },
+        {
+          "name": "Diogo Dalot",
+          "position": "Right Back / Wingback",
+          "goals": 2,
+          "assists": 3,
+          "age": 25,
+          "quiz": "True or False: Dalot once played for Porto."
+        },
+        {
+          "name": "Benjamin Sesko",
+          "position": "Striker",
+          "goals": 10,
+          "assists": 4,
+          "age": 21,
+          "quiz": "True or False: Sesko is Slovenian."
+        },
+        {
+          "name": "Matheus Cunha",
+          "position": "Forward / Winger",
+          "goals": 7,
+          "assists": 5,
+          "age": 25,
+          "quiz": "True or False: Cunha ever played in Bundesliga."
+        },
+        {
+          "name": "Matthijs de Ligt",
+          "position": "Centre Back",
+          "goals": 2,
+          "assists": 1,
+          "age": 25,
+          "quiz": "True or False: de Ligt was Ajax captain before moving to Juventus."
+        },
+        {
+          "name": "Harry Maguire",
+          "position": "Centre Back",
+          "goals": 1,
+          "assists": 0,
+          "age": 32,
+          "quiz": "True or False: Maguire has captained England."
+        },
+        {
+          "name": "Altay Bayındır",
+          "position": "Goalkeeper",
+          "goals": 0,
+          "assists": 0,
+          "age": 27,
+          "quiz": "True or False: Bayındır is Turkish."
+        },
+        {
+          "name": "Dorgu",
+          "position": "Midfielder / Forward",
+          "goals": 2,
+          "assists": 2,
+          "age": 20,
+          "quiz": "True or False: Dorgu is from Norway."
+        },
+        {
+          "name": "Luke Shaw",
+          "position": "Left Back / Wingback",
+          "goals": 1,
+          "assists": 4,
+          "age": 29,
+          "quiz": "True or False: Shaw started his professional career at Southampton."
+        }
+      ]
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "Image": "TottenhamHotspur.png",
+      "stadium": "Tottenham Hotspur Stadium",
+      "manager": "Thomas Frank",
+      "founded": "1882",
+      "Players": [
+        {
+          "name": "Richarlison",
+          "position": "Forward",
+          "goals": 8,
+          "assists": 3,
+          "age": 28,
+          "quiz": "True or False: Richarlison is Brazilian."
+        },
+        {
+          "name": "Xavi Simons",
+          "position": "Attacking Midfielder / Winger",
+          "goals": 6,
+          "assists": 5,
+          "age": 21,
+          "quiz": "True or False: Simons once played for Paris Saint-Germain youth."
+        },
+        {
+          "name": "Mohamed Kudus",
+          "position": "Attacking Midfielder / Forward",
+          "goals": 7,
+          "assists": 4,
+          "age": 24,
+          "quiz": "True or False: Kudus is from Ghana."
+        },
+        {
+          "name": "Palhinha",
+          "position": "Defensive Midfielder",
+          "goals": 3,
+          "assists": 2,
+          "age": 27,
+          "quiz": "True or False: Palhinha once played for Fulham."
+        },
+        {
+          "name": "Christian Bentancur",
+          "position": "Central Midfielder / Defensive Midfielder",
+          "goals": 1,
+          "assists": 3,
+          "age": 27,
+          "quiz": "True or False: Bentancur is Uruguayan."
+        },
+        {
+          "name": "Lucas Bergvall",
+          "position": "Midfielder",
+          "goals": 2,
+          "assists": 1,
+          "age": 19,
+          "quiz": "True or False: Bergvall is Swedish."
+        },
+        {
+          "name": "Micky van de Ven",
+          "position": "Centre Back",
+          "goals": 2,
+          "assists": 1,
+          "age": 23,
+          "quiz": "True or False: Van de Ven played for Wolfsburg."
+        },
+        {
+          "name": "Christian Romero",
+          "position": "Centre Back / Defensive",
+          "goals": 1,
+          "assists": 1,
+          "age": 27,
+          "quiz": "True or False: Romero is Argentine."
+        },
+        {
+          "name": "Djed Spence",
+          "position": "Right Back / Wingback",
+          "goals": 1,
+          "assists": 2,
+          "age": 23,
+          "quiz": "True or False: Djed Spence was once on loan from Tottenham."
+        },
+        {
+          "name": "Destiny Udogie",
+          "position": "Left Back / Wingback",
+          "goals": 3,
+          "assists": 4,
+          "age": 22,
+          "quiz": "True or False: Udogie is Italian."
+        },
+        {
+          "name": "Vicario",
+          "position": "Goalkeeper",
+          "goals": 0,
+          "assists": 0,
+          "age": 21,
+          "quiz": "True or False: Vicario has played in the Serie A before joining Tottenham."
+        }
+      ]
+    },
+    {
+      "name": "Real Madrid",
+      "Image": "RealMadrid.png",
+      "stadium": "Santiago Bernabéu Stadium",
+      "manager": "Xabi Alonso",
+      "founded": "1902",
+      "Players": [
+        {
+          "name": "Vinicius Jr"
+        },
+        {
+          "name": "Jude Bellingham"
+        },
+        {
+          "name": "Kylian Mbappe"
+        },
+        {
+          "name": "Dean Huijsen"
+        },
+        {
+          "name": "Federico Valverde"
+        },
+        {
+          "name": "Aurélien Tchouaméni"
+        },
+        {
+          "name": "Arda Guller"
+        },
+        {
+          "name": "Alvaro Carreras"
+        },
+        {
+          "name": "Éder Militão"
+        },
+        {
+          "name": "Franco Mastantuono"
+        },
+        {
+          "name": "Thibaut Courtois"
+        }
+      ]
+    },
+    {
+      "name": "Barcelona",
+      "Image": "Barcelona.png",
+      "stadium": "Camp Nou",
+      "manager": "Hansi Flick",
+      "founded": "1899",
+      "Players": [
+        {
+          "name": "Laminine Yamal"
+        },
+        {
+          "name": "Pedri"
+        },
+        {
+          "name": "Frenkie de Jong"
+        },
+        {
+          "name": "Raphinha"
+        },
+        {
+          "name": "Dani Olmo"
+        },
+        {
+          "name": "Jules Kounde"
+        },
+        {
+          "name": "Alejandro Balde"
+        },
+        {
+          "name": "Ronald Araújo"
+        },
+        {
+          "name": "Joan García"
+        },
+        {
+          "name": "Robert Lewandowski"
+        },
+        {
+          "name": "Pau Cubarsi"
+        }
+      ]
+    },
+    {
+      "name": "Atletico Madrid",
+      "Image": "AtleticoMadrid.png",
+      "stadium": "Wanda Metropolitano",
+      "manager": "Diego Simeone",
+      "founded": "1903",
+      "Players": [
+        {
+          "name": "Julian Alvarez"
+        },
+        {
+          "name": "Alexander Sorloth"
+        },
+        {
+          "name": "Giuliano Simeone"
+        },
+        {
+          "name": "Pablo Barrios"
+        },
+        {
+          "name": "Koke"
+        },
+        {
+          "name": "Nicolás González"
+        },
+        {
+          "name": "Marcos Llorente"
+        },
+        {
+          "name": "Jan Oblak"
+        },
+        {
+          "name": "Le Normand"
+        },
+        {
+          "name": "Clément Lenglet"
+        },
+        {
+          "name": "David Hancko"
+        }
+      ]
+    },
+    {
+      "name": "AC Milan",
+      "Image": "ACMilan.png",
+      "stadium": "San Siro",
+      "manager": "Massimiliano Allegri",
+      "founded": "1899",
+      "Players": [
+        {
+          "name": "Mike Maignan"
+        },
+        {
+          "name": "Strahinja Pavlovic"
+        },
+        {
+          "name": "Fikayo Tomori"
+        },
+        {
+          "name": "Matteo Gabbia"
+        },
+        {
+          "name": "Youssouf Fofana"
+        },
+        {
+          "name": "Adrien Rabiot"
+        },
+        {
+          "name": "Pau Estupiñán"
+        },
+        {
+          "name": "Rafael Leão"
+        },
+        {
+          "name": "Christian Pulisic"
+        },
+        {
+          "name": "Santiago Giménez"
+        },
+        {
+          "name": "Alexis Saelemaekers"
+        }
+      ]
+    },
+    {
+      "name": "Inter Milan",
+      "Image": "InterMilan.png",
+      "stadium": "San Siro",
+      "manager": "Cristian Chivu",
+      "founded": "1908",
+      "Players": [
+        {
+          "name": "Josep Martinez"
+        },
+        {
+          "name": "Alessandro Bastoni"
+        },
+        {
+          "name": "Stefan de Vrij"
+        },
+        {
+          "name": "Manuel Akanji"
+        },
+        {
+          "name": "Federico Dimarco"
+        },
+        {
+          "name": "Denzel Dumfries"
+        },
+        {
+          "name": "Hakan Çalhanoğlu"
+        },
+        {
+          "name": "Henrikh Mkhitaryan"
+        },
+        {
+          "name": "Nicolò Barella"
+        },
+        {
+          "name": "Lautaro Martínez"
+        },
+        {
+          "name": "Marcus Thuram"
+        }
+      ]
+    },
+    {
+      "name": "Napoli",
+      "Image": "Napoli.png",
+      "stadium": "Stadio Diego Armando Maradona",
+      "manager": "Antonio Conte",
+      "founded": "1926",
+      "Players": [
+        {
+          "name": "Alex Meret"
+        },
+        {
+          "name": "Mathías Olivera"
+        },
+        {
+          "name": "Amir Rrahmani"
+        },
+        {
+          "name": "Juan Jesus"
+        },
+        {
+          "name": "Giovanni Di Lorenzo"
+        },
+        {
+          "name": "André-Frank Zambo Anguissa"
+        },
+        {
+          "name": "Stanislav Lobotka"
+        },
+        {
+          "name": "Scott McTominay"
+        },
+        {
+          "name": "Kevin De Bruyne"
+        },
+        {
+          "name": "Romelu Lukaku"
+        },
+        {
+          "name": "Matteo Politano"
+        }
+      ]
+    },
+    {
+      "name": "Juventus",
+      "Image": "Juventus.png",
+      "stadium": "Allianz Stadium",
+      "manager": "Thiago Motta",
+      "founded": "1897",
+      "Players": [
+        {
+          "name": "Michele Di Gregorio"
+        },
+        {
+          "name": "Andrea Cambiaso"
+        },
+        {
+          "name": "Federico Gatti"
+        },
+        {
+          "name": "Pierre Kalulu"
+        },
+        {
+          "name": "Lloyd Kelly"
+        },
+        {
+          "name": "Manuel Locatelli"
+        },
+        {
+          "name": "Khéphren Thuram"
+        },
+        {
+          "name": "Teun Koopmeiners"
+        },
+        {
+          "name": "Kenan Yıldız"
+        },
+        {
+          "name": "Jonathan David"
+        },
+        {
+          "name": "Francisco Conceição"
+        }
+      ]
+    },
+    {
+      "name": "Paris Saint-Germain",
+      "Image": "PSG.png",
+      "stadium": "Parc des Princes",
+      "manager": "Luis Enrique",
+      "founded": "1970",
+      "Players": [
+        {
+          "name": "Lucas Chevalier"
+        },
+        {
+          "name": "Nuno Mendes"
+        },
+        {
+          "name": "Marquinhos"
+        },
+        {
+          "name": "Willian Pacho"
+        },
+        {
+          "name": "Achraf Hakimi"
+        },
+        {
+          "name": "João Neves"
+        },
+        {
+          "name": "Vitinha"
+        },
+        {
+          "name": "Fabian Ruiz"
+        },
+        {
+          "name": "Khvicha Kvaratskhelia"
+        },
+        {
+          "name": "Ousmane Dembélé"
+        },
+        {
+          "name": "Desire Doue"
+        }
+      ]
+    },
+    {
+      "name": "Bayern Munich",
+      "Image": "BayernMunich.png",
+      "stadium": "Allianz Arena",
+      "manager": "Vincent Kompany",
+      "founded": "1900",
+      "Players": [
+        {
+          "name": "Manuel Neuer"
+        },
+        {
+          "name": "Alphonso Davies"
+        },
+        {
+          "name": "Dayot Upamecano"
+        },
+        {
+          "name": "Jonathan Tah"
+        },
+        {
+          "name": "Konrad Laimer"
+        },
+        {
+          "name": "Joshua Kimmich"
+        },
+        {
+          "name": "Leon Goretzka"
+        },
+        {
+          "name": "Luis Diaz"
+        },
+        {
+          "name": "Serge Gnabry"
+        },
+        {
+          "name": "Harry Kane"
+        },
+        {
+          "name": "Michael Olise"
+        }
+      ]
+    },
+    {
+      "name": "Borussia Dortmund",
+      "Image": "Dortmund.png",
+      "stadium": "Signal Iduna Park",
+      "manager": "Niko Kovac",
+      "founded": "1909",
+      "Players": [
+        {
+          "name": "Gregor Kobel"
+        },
+        {
+          "name": "Ramy Bensebaini"
+        },
+        {
+          "name": "Nico Schlotterbeck"
+        },
+        {
+          "name": "Waldemar Anton"
+        },
+        {
+          "name": "Felix Nmecha"
+        },
+        {
+          "name": "Daniel Svensson"
+        },
+        {
+          "name": "Pascal Groß"
+        },
+        {
+          "name": "Julian Brandt"
+        },
+        {
+          "name": "Maximilian Beier"
+        },
+        {
+          "name": "Serhou Guirassy"
+        },
+        {
+          "name": "Karim Adeyemi"
+        }
+      ]
+    }
+  ]
+}
